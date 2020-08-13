@@ -1,3 +1,4 @@
+  
 x=0
 while x <= 1000:
     x += 1
@@ -5,6 +6,4 @@ while x <= 1000:
         continue
     else:
         print(x)
-   
-    
    

@@ -1,3 +1,4 @@
+  
 # a = 0
 # while a <= 1000:
 #     print (a)
@@ -6,4 +7,3 @@
 for x in range(1001):
     print(x)
     
- 
